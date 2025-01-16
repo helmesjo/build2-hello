@@ -1,6 +1,6 @@
 : 1
 name: libhello
-version: 0.1.0
+version: 0.2.0-a.1
 language: c++
 project: hello
 summary: hello C++ library
