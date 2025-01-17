@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libwhat/
+}
+
+export $out_root/libwhat/$import.target
